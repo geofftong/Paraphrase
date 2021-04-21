@@ -15,8 +15,8 @@ Second, go to `src` directory and run `python main_xianer.py` to train and test 
 
 ### Note
 - PyTorch 0.1x don't support Biliear Network, and need to modify some built-in functions.
-- Pretrained Chinese word embedding file can find in '/data1/qspace/yananlu/embedding/huge.readable' in mmgpusprambersz20.
-- Add '/data1/qspace/geofftong/anaconda2/bin' to the PATH in mmgpusprambersz20 or mmgpusprambersz22 can run our project properly.
+- Pretrained Chinese word embedding file can find in 'xxx/embedding/huge.readable' in xxx.
+- Add 'xxx/anaconda2/bin' to the PATH in xxx can run our project properly.
 
 
 ### Acknowledgements
